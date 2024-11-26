@@ -1,2 +1,3 @@
 # Profile
-Profile doc
+* English : folder of profile doc in english.
+* French : folder of profile doc in french.
